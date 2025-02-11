@@ -1,5 +1,5 @@
 # An-Ontological-Theory-of-Space-Time-Entropy
-An Ontological Theory of Space‐Time‐Entropy;  https://zenodo.org/records/14835679    ;DOI 10.5281/zenodo.14788393;
+An Ontological Theory of Space‐Time‐Entropy;  https://zenodo.org/records/14835679    ;DOI 10.5281/zenodo.14835679;
 3 dimensional matrix representation of time and entropy in space;
 A space quantization and orientation quantization Framework;
 Multiple mappings among time, entropy, and space transformation matrices;
